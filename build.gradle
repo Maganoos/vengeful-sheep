@@ -62,7 +62,7 @@ jar {
 modrinth {
 	token = System.getenv("MODRINTH_TOKEN")
 	projectId  = project.archives_base_name
-	versionName = ("ToolSwitcher v" + version)
+	versionName = ("Vengeful Sheep v" + version)
 	uploadFile = remapJar
 	changelog = System.getenv("CHANGELOG")
 	dependencies {

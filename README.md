@@ -1,7 +1,7 @@
 # Vengeful Sheep
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/placeholder?style=for-the-badge&logo=modrinth&color=%2300AF5C)](https://modrinth.com/mod/placeholder) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maganoos/vengeful-sheep/total?style=for-the-badge&logo=github&color=whitesmoke)](https://github.com/maganoos/vengeful-sheep) ![Modrinth Version](https://img.shields.io/modrinth/v/placeholder?style=for-the-badge&logo=semver)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/vixrTB37?style=for-the-badge&logo=modrinth&color=%2300AF5C)](https://modrinth.com/mod/vixrTB37) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maganoos/vengeful-sheep/total?style=for-the-badge&logo=github&color=whitesmoke)](https://github.com/maganoos/vengeful-sheep) ![Modrinth Version](https://img.shields.io/modrinth/v/vixrTB37?style=for-the-badge&logo=semver)
 
-Vengeful sheep is a funny server mod, based on sheeps really hating your guts.
+Vengeful sheep is a funny server mod, based on sheep really hating your guts.
 
 Sheep can now shear you back! Now, you too have to eat grass. How humiliating!
 
