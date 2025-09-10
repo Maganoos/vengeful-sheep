@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "vengeful-sheep",
+	"version": "${version}",
+	"name": "Vengeful Sheep",
+	"description": "Get sheared nerd!",
+	"authors": [
+		"Maganoos"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/vengeful-sheep",
+		"issues": "https://github.com/Maganoos/vengeful-sheep/issues",
+		"sources": "https://github.com/Maganoos/vengeful-sheep"
+	},
+	"license": "MIT",
+	"icon": "assets/vengeful-sheep/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"eu.magkari.mc.vengeful_sheep.VengefulSheep"
+		]
+	},
+	"mixins": [
+		"vengeful-sheep.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16",
+		"minecraft": ">=1.21.2",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

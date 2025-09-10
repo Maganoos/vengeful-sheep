@@ -1,0 +1,7 @@
+{
+  "commands.vengeful_sheep.unshear.player_none": "Player %s has no sheared parts to restore.",
+  "commands.vengeful_sheep.unshear.summary": "Restored parts for %d player(s).",
+
+  "commands.vengeful_sheep.shear.player_none": "Player %s is already sheared.",
+  "commands.vengeful_sheep.shear.summary": "Sheared %d player(s)."
+}

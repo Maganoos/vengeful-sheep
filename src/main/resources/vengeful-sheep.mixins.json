@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "eu.magkari.mc.vengeful_sheep.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MixinItems",
+		"MixinPlayerEntity",
+		"MixinPlayerEntity$PlayerEntityAccessor",
+		"MixinSheepEntity"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
