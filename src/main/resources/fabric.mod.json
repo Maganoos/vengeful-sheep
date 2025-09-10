@@ -3,7 +3,7 @@
 	"id": "vengeful-sheep",
 	"version": "${version}",
 	"name": "Vengeful Sheep",
-	"description": "Get sheared nerd!",
+	"description": "Get sheared nerd! Get sheared nerd! The sheep have turned the tables...",
 	"authors": [
 		"Maganoos"
 	],
@@ -14,7 +14,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/vengeful-sheep/icon.png",
-	"environment": "*",
+	"environment": "server",
 	"entrypoints": {
 		"main": [
 			"eu.magkari.mc.vengeful_sheep.VengefulSheep"
